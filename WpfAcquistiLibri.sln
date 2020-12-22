@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfAcquistiLibri", "WpfAcquistiLibri\WpfAcquistiLibri.csproj", "{769DB3AD-7F18-42C7-849B-F4E353E49DB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryScuola", "LibraryScuola\LibraryScuola.csproj", "{59CD493D-80EB-4A60-A701-1B85B6705957}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{769DB3AD-7F18-42C7-849B-F4E353E49DB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{769DB3AD-7F18-42C7-849B-F4E353E49DB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{769DB3AD-7F18-42C7-849B-F4E353E49DB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{769DB3AD-7F18-42C7-849B-F4E353E49DB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59CD493D-80EB-4A60-A701-1B85B6705957}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59CD493D-80EB-4A60-A701-1B85B6705957}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59CD493D-80EB-4A60-A701-1B85B6705957}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59CD493D-80EB-4A60-A701-1B85B6705957}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {330C554F-ED2F-4648-9CA0-D52FCE9FD647}
+	EndGlobalSection
+EndGlobal
